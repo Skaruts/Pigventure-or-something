@@ -1,2 +1,3 @@
 # Pigventure-or-something
-TIC-80 roguelike, following from Lazydevs "Porklike" youtube tutorial
+
+NOTE: The lua file contains all the sprite information with it. It was saved from tic version 0.80. 
